@@ -1,0 +1,13 @@
+fastapi
+uvicorn 
+transformers
+torch
+Pillow==9.5.0
+diffusers
+python-multipart
+starlette
+python-dotenv
+ftfy
+accelerate
+safetensors
+opencv-python-headless==4.5.3.56
